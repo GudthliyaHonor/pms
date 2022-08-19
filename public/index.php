@@ -1,5 +1,7 @@
 <?php
 
+echo 222;
+die;
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
 
